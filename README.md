@@ -1,1 +1,1 @@
-# SeatCount-Forecast-redBus-Decode-hackathon
+# SeatCount Forecast: redBus Decode Hackathon 2025
