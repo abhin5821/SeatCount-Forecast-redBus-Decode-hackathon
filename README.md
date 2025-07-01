@@ -1,5 +1,5 @@
 # **SeatCount Forecast: redBus Decode Hackathon 2025**
-Source : [redBus Decode](https://www.analyticsvidhya.com/datahack/contest/redbus-data-decode-hackathon-2025) |  Main File : [main.ipynb](main.ipynb)
+Source : [redBus Decode](https://www.analyticsvidhya.com/datahack/contest/redbus-data-decode-hackathon-2025)
 
 ## Problem Statement
 Predict the final seatcount for the given date of journey 15 days prior the departure.
