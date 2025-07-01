@@ -19,7 +19,7 @@ The solution commences with an analysis of the provided datasets. Based on the o
 
 The feature engineering process involves the following steps:
 - Extracting essential datetime features from the ‘doj’ column, including date_of_month, week_of_year, month_of_year, day_of_week, start_and_end_of_year.
-- Extracting holiday data from an external holiday dataset (‘https://www.officeholidays.com’) and concatenating it with our data as two indicators: National and Regional holidays.
+- Extracting holiday data from an external holiday dataset (https://www.officeholidays.com) and concatenating it with our data as two indicators: National and Regional holidays.
 - Creating lag features (1 and 7) based on daily pickup 1 and 7 days before booking-on-hand (15 days).
 - Generating Fourier features (sine and cosine).
 
